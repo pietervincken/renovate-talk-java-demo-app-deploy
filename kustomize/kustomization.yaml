@@ -9,4 +9,4 @@ resources:
 namespace: demo-java-app
 images:
 - name: renovatetalkacr.azurecr.io/renovate-talk-java-demo-app
-  newTag: 1.4.1
+  newTag: 1.4.2
