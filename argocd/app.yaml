@@ -5,7 +5,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:pietervincken/renovate-talk-java-demo-app.git
+    repoURL: git@github.com:pietervincken/renovate-talk-java-demo-app-deploy.git
     targetRevision: main
     path: kustomize
   destination:
