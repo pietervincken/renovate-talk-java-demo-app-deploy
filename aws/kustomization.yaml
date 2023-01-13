@@ -10,4 +10,4 @@ resources:
 namespace: demo-java-app
 images:
   - name: 930970667460.dkr.ecr.eu-west-1.amazonaws.com/renovate-talk-java-demo-app
-    newTag: 1.4.11
+    newTag: 1.5.1
