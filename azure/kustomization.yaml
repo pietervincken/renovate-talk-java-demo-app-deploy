@@ -8,5 +8,5 @@ resources:
 
 namespace: demo-java-app
 images:
-  - name: renovate-talk-java-demo-app
+  - name: renovatetalkacr.azurecr.io/renovate-talk-java-demo-app
     newTag: 1.4.12

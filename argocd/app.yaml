@@ -7,7 +7,7 @@ spec:
   source:
     repoURL: git@github.com:pietervincken/renovate-talk-java-demo-app-deploy.git
     targetRevision: main
-    path: kustomize
+    path: azure
   destination:
     server: https://kubernetes.default.svc
     namespace: demo-java-app
