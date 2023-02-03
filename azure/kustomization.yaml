@@ -8,4 +8,4 @@ namespace: demo-java-app
 images:
   - name: renovate-talk-java-demo-app
     newName: renovatetalkacr.azurecr.io/renovate-talk-java-demo-app
-    newTag: 1.7.0
+    newTag: 1.8.2
